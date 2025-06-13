@@ -8,7 +8,7 @@ export default function Home() {
           We are almost ready!
         </h1>
         <p className="text-lg text-gray-600 mb-8">
-          New App coming soon...
+          New App coming soon!
         </p>
         <p>
           <ul>
