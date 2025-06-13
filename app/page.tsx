@@ -23,9 +23,7 @@ export default function Home() {
               </a>
             </li>
           </ul>
-          <a href="/privacy-policy">
-            Privacy Policy
-          </a>
+
         </p>
 
         <div className="bg-green-100 border-l-4 border-green-500 text-green-700 p-4 rounded-md">
