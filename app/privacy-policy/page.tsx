@@ -55,8 +55,11 @@ export default function PrivacyPage() {
           This data is used by Google for the following purposes: Advertising or
           marketing, Analytics, and App functionality. We, THE DEVELOPER, do not
           store this information on our servers. For more information on how
-          Google manages data in its advertising products, you can visit
-          <a href="https://policies.google.com/technologies/ads">
+          Google manages data in its advertising products, you can visit{" "}
+          <a
+            className="text-blue-600"
+            href="https://policies.google.com/technologies/ads"
+          >
             Google&apos;s Privacy & Terms site.
           </a>
         </p>
@@ -75,12 +78,7 @@ export default function PrivacyPage() {
           use of your data for personalized advertising. You can manage your
           consent choices at any time.
         </p>
-        <p className="mb-2">
-          This information is used solely to understand the performance of the
-          application and website, troubleshoot potential technical errors, and
-          improve the overall user experience, without identifying you at any
-          time.
-        </p>
+
         <h2 className="text-2xl font-bold mb-2">3. Minors</h2>
         <p className="mb-2">
           THE APPLICATION and THE WEBSITE are intended for users aged 13 and
@@ -121,7 +119,7 @@ export default function PrivacyPage() {
         <p className="mb-2">
           If you have any questions or need to clarify any point about this
           privacy policy, please do not hesitate to contact THE DEVELOPER via
-          email at
+          email at{" "}
           <a href="mailto:jorgelogomez@gmail.com">jorgelogomez@gmail.com</a>
         </p>
       </div>
