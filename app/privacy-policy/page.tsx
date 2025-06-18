@@ -6,14 +6,13 @@ export default function PrivacyPage() {
       <div>
         <h1 className="text-3xl font-bold mb-4">Privacy Policy</h1>
         <p className="mb-2">
-          At <strong>JORGE GÓMEZ LÓPEZ</strong> (hereinafter, &quot;THE
-          DEVELOPER&quot;), with registered address at Calle San Francisco, nº 9
-          – 11500 El Puerto de Santa María – (Cádiz) - Spain, and identification
-          number (D.N.I.) 75797320-S, we take our users&#39; privacy very
-          seriously. This privacy policy explains how we manage information
-          through our mobile application <strong>ZENITH CHESS</strong>{" "}
-          (hereinafter, &quot;THE APPLICATION&quot;) and our website
-          (hereinafter, &quot;THE WEBSITE&quot;).
+          At <strong>JORGE GÓMEZ LÓPEZ</strong> (hereinafter, "THE DEVELOPER"),
+          with registered address at Calle San Francisco, nº 9 – 11500 El Puerto
+          de Santa María – (Cádiz) - Spain, and identification number (D.N.I.)
+          75797320-S, we take our users privacy very seriously. This privacy
+          policy explains how we manage information through our mobile
+          application <strong>ZENITH CHESS</strong> (hereinafter, "THE
+          APPLICATION") and our website (hereinafter, "THE WEBSITE").
         </p>
         <h2 className="text-2xl font-bold mb-2">
           1. Information We Collect and Share
